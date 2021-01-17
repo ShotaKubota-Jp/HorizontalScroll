@@ -7,5 +7,5 @@ AndroidProject(JAVA)
 棒にプレイヤーが触れたらゲームオーバーとなります。
 
 【参考】
-Androidプログラミングの館
+Androidプログラミングの館  
 https://dixq.net/Android/
